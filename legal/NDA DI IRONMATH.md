@@ -84,24 +84,7 @@ Il Recipient si impegna a:
 
 ---
 
-# **ART. 3 – DIVIETO DI CONCORRENZA**
-
-Per tutta la durata dell’accordo e per **36 mesi dopo la cessazione**:
-
-Il Recipient NON può:
-
-- sviluppare piattaforme educative simili a IronMath
-    
-- contribuire a prodotti concorrenti nel settore **EdTech per matematica 11–18 anni**
-    
-- utilizzare componenti concettuali, architetturali, metodologiche o algoritmiche assimilabili a IronMath
-    
-
-È vietata qualsiasi attività che possa costituire concorrenza diretta o indiretta.
-
----
-
-# **ART. 4 – PROPRIETÀ INTELLETTUALE**
+# **ART. 3 – PROPRIETÀ INTELLETTUALE**
 
 Tutte le Informazioni Riservate rimangono di **esclusiva proprietà dei Founder**.
 
@@ -122,7 +105,7 @@ Qualsiasi materiale prodotto dal Recipient nell’ambito del progetto diventa **
 
 ---
 
-# **ART. 5 – DIVIETO DI RIUTILIZZO**
+# **ART. 4 – DIVIETO DI RIUTILIZZO**
 
 Il Recipient NON può:
 
@@ -139,7 +122,7 @@ Il Recipient NON può:
 
 ---
 
-# **ART. 6 – PROTEZIONE DATI PERSONALI (GDPR)**
+# **ART. 5 – PROTEZIONE DATI PERSONALI (GDPR)**
 
 Il Recipient si impegna a:
 
@@ -154,7 +137,7 @@ Il Recipient si impegna a:
 
 ---
 
-# **ART. 7 – RESTITUZIONE E DISTRUZIONE**
+# **ART. 6 – RESTITUZIONE E DISTRUZIONE**
 
 Su richiesta scritta dei Founder, il Recipient dovrà:
 
@@ -168,7 +151,7 @@ Su richiesta scritta dei Founder, il Recipient dovrà:
 
 ---
 
-# **ART. 8 – DURATA**
+# **ART. 7 – DURATA**
 
 Il presente accordo entra in vigore alla data di firma e dura:
 
@@ -180,7 +163,7 @@ Il presente accordo entra in vigore alla data di firma e dura:
 
 ---
 
-# **ART. 9 – PENALI E RESPONSABILITÀ**
+# **ART. 8 – PENALI E RESPONSABILITÀ**
 
 In caso di violazione, il Recipient è responsabile di:
 
@@ -197,7 +180,7 @@ In caso di violazione, il Recipient è responsabile di:
 
 ---
 
-# **ART. 10 – LEGGE APPLICABILE E FORO COMPETENTE**
+# **ART. 9 – LEGGE APPLICABILE E FORO COMPETENTE**
 
 Il presente accordo è regolato dalla **legge italiana**.
 
@@ -207,7 +190,7 @@ Il foro competente esclusivo è:
 
 ---
 
-# **ART. 11 – DISPOSIZIONI FINALI**
+# **ART. 10 – DISPOSIZIONI FINALI**
 
 - L’accordo non costituisce obbligo di assunzione o collaborazione.
     
